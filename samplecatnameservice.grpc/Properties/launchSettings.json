@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "samplecatnameservice.grpc": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5161;https://localhost:7295",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
